@@ -62,7 +62,7 @@ I am a **Full Stack Web Developer** and **IT Expert**, passionate about building
 
 - **[Ethiopian Intercity Bus Booking System](https://github.com/aweke1221/bus-booking-system)** – Full-featured reservation system with admin & user dashboards.  
 - **[Transport Management Dashboard](https://github.com/aweke1221/transport-dashboard)** – Web app for managing transport schedules, fleet, and bookings.  
-- **[Portfolio Website](https://github.com/aweke1221/portfolio)** – Responsive personal portfolio showcasing projects, skills, and resume.  
+- **[Portfolio Website](https://aweke-babey.vercel.app)** – Responsive personal portfolio showcasing projects, skills, and resume.  
 
 > More projects can be found in my [GitHub repositories](https://github.com/aweke1221?tab=repositories).
 
