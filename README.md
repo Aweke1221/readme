@@ -60,8 +60,8 @@ I am a **Full Stack Web Developer** and **IT Expert**, passionate about building
 
 ## 💻 Projects Highlights
 
-- **[Ethiopian Intercity Bus Booking System](https://github.com/aweke1221/bus-booking-system)** – Full-featured reservation system with admin & user dashboards.  
-- **[Transport Management Dashboard](https://bus-go-ashen.vercel.app/register.html)** – Web app for managing transport schedules, fleet, and bookings.  
+- **[Ethiopian Intercity Bus Booking System](https://bus-go-ashen.vercel.app/register.html)** – Full-featured reservation system with admin & user dashboards.  
+- **[Transport Management Dashboard](https://github.com/aweke1221/bus-booking-system)** – Web app for managing transport schedules, fleet, and bookings.  
 <h2 align="center"><strong>🚀 Explore My Work</strong></h2>
 
 <div align="center" style="font-size: 18px; font-weight: 500;">
