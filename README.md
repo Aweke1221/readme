@@ -82,7 +82,7 @@ I am a **Full Stack Web Developer** and **IT Expert**, passionate about building
 
 ## 📫 Contact Me
 
-- **Email:** [aweke.babey@example.com](mailto:aweke.babey@example.com)  
+- **Email:** [aweke.babey@example.com](mailto:awekebabey@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/aweke-babey](https://www.linkedin.com/in/aweke-babey/)  
 - **GitHub:** [github.com/aweke1221](https://github.com/aweke1221)  
 
